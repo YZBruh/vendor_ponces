@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Vivo FuntouchOS Sans font overlay -->
+    <string name="font_vivotype_overlay" translatable="false">VivoType</string>
+</resources>
