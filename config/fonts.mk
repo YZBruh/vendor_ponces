@@ -17,6 +17,7 @@ PRODUCT_PACKAGES += \
     FontArbutusSourceOverlay \
     FontArvoLatoOverlay \
     FontHarmonySansOverlay \
+    FontvivotypeOverlay \
     FontInterOverlay \
     FontLatoOverlay \
     FontManropeOverlay \
